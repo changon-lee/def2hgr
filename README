@@ -4,6 +4,6 @@ In Hmetis Input format
 Fix file is generated.
 
 how to use:
-	./converter (target def)
-	ex) ./converter des/des.def 
+	./converter (target def folder name)
+	ex) ./converter des
 
